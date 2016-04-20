@@ -1,0 +1,30 @@
+{
+  "intents": [
+    {
+      "intent": "PassageIntent",
+      "slots": [
+      {
+        "name" : "Book",
+        "type": "LIST_OF_BOOKS"
+      },
+      {
+        "name" : "Chapter",
+        "type": "AMAZON.NUMBER"
+      },
+      {
+        "name" : "Verse",
+        "type": "AMAZON.NUMBER"
+      }
+     ]
+    },
+   {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

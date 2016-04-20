@@ -1,0 +1,20 @@
+PassageIntent read {Book} Chapter {Chapter} Verse {Verse}
+PassageIntent read from {Book} Chapter {Chapter} Verse {Verse}
+PassageIntent reading from {Book} Chapter {Chapter} Verse {Verse}
+PassageIntent read me {Book} Chapter {Chapter} Verse {Verse}
+PassageIntent read to me {Book} Chapter {Chapter} Verse {Verse}
+PassageIntent quote {Book} Chapter {Chapter} Verse {Verse}
+PassageIntent quote me {Book} Chapter {Chapter} Verse {Verse}
+PassageIntent quote to me {Book} Chapter {Chapter} Verse {Verse}
+PassageIntent what does {Book} Chapter {Chapter} Verse {Verse} say
+PassageIntent what is writen in {Book} Chapter {Chapter} Verse {Verse}
+PassageIntent tell me {Book} Chapter {Chapter} Verse {Verse}
+PassageIntent preach {Book} Chapter {Chapter} Verse {Verse}
+PassageIntent preach to me {Book} Chapter {Chapter} Verse {Verse}
+PassageIntent {Book} Chapter {Chapter} Verse {Verse}
+PassageIntent what is {Book} Chapter {Chapter} Verse {Verse}
+PassageIntent speak {Book} Chapter {Chapter} Verse {Verse}
+PassageIntent say {Book} Chapter {Chapter} Verse {Verse}
+PassageIntent speak to me {Book} Chapter {Chapter} Verse {Verse}
+PassageIntent say to me {Book} Chapter {Chapter} Verse {Verse}
+PassageIntent enlighten me with {Book} Chapter {Chapter} Verse {Verse}
